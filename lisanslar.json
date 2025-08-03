@@ -1,0 +1,12 @@
+{
+  "ABC123": {
+    "baslangic": "2024-08-03",
+    "bitis": "2025-08-03",
+    "not": "Firma A test lisansı"
+  },
+  "XYZ789": {
+    "baslangic": "2024-09-01",
+    "bitis": "2025-09-01",
+    "not": "1 yıllık kurumsal lisans"
+  }
+}
